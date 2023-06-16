@@ -1,1 +1,1 @@
-# dwm2windows
+# dwmstackdeck
