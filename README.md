@@ -4,7 +4,7 @@ Two-window layout with one master and a deck of stack windows you can flip throu
 TO-DO: add demo gif
 
 ## Usage
-Press `Mod+S` to enable the layout, you'll see the `M|S` symbol on the bar. Flip the windows as usual with `Mod+J` and `Mod+K`. If no windows in master stack, all the windows will be fullscreen as in monocle mode. Only one master window is allowed(but i think i'll change that).
+Press `Mod+S` to enable the layout, you'll see the `M|S` symbol on the bar. Flip windows as usual with `Mod+J` and `Mod+K`. If no windows in master stack, all windows will be fullscreen as in monocle mode. Only one master window is allowed(but i think i'll change that).
 
 ## Installation
 ```bash
