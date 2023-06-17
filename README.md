@@ -8,8 +8,8 @@ Press `Mod+S` to enable the layout, you'll see the `M|S` symbol on the bar. Flip
 
 ## Installation
 ```bash
-cd program-directory
-git am path/to/patch.diff
+cd <dwm-dir>
+git am <path>/dwm-stackdeck-*.diff
 ```
 
 ## Future updates
